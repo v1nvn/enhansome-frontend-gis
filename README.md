@@ -46,20 +46,20 @@ For managing, analyzing, editing, and visualizing geographic data.
 
 Libraries for creating web maps:
 
-* [Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 44,650 | 🐛 559 | 🌐 JavaScript | 📅 2026-03-13 - The leading open-source JavaScript library for mobile-friendly interactive maps. ![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
-* [Cesium.js](https://github.com/CesiumGS/cesium) ⭐ 14,952 | 🐛 1,585 | 🌐 JavaScript | 📅 2026-03-15 - An open-source JavaScript library for world-class 3D mapping of geospatial data. ![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social)
-* [Deck.GL](https://github.com/visgl/deck.gl) ⭐ 13,953 | 🐛 486 | 🌐 TypeScript | 📅 2026-03-15 - WebGL2 powered geospatial visualization layers. ![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social)
-* [OpenLayers](https://github.com/openlayers/openlayers) ⭐ 12,353 | 🐛 878 | 🌐 JavaScript | 📅 2026-03-14 - A high-performance, feature-packed library for creating interactive maps on the web. ![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social)
-* [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,186 | 🐛 1,437 | 🌐 TypeScript | 📅 2026-03-13 - JavaScript library that uses WebGL to render interactive maps from vector tiles. ![GitHub stars](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social)
-* [maplibre](https://github.com/maplibre/maplibre-gl-js) ⭐ 10,134 | 🐛 417 | 🌐 TypeScript | 📅 2026-03-13 - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. ![GitHub stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social)
-* [MapTalks.js](https://github.com/maptalks/maptalks.js) ⭐ 4,506 | 🐛 116 | 🌐 HTML | 📅 2026-03-16 - An open-source JavaScript library for integrated 2D/3D maps. ![GitHub stars](https://img.shields.io/github/stars/maptalks/maptalks.js?style=social)
-* [antvis L7](https://github.com/antvis/L7) ⭐ 3,977 | 🐛 264 | 🌐 TypeScript | 📅 2026-03-13 - Large-scale WebGL-powered Geospatial Data Visualization. ![GitHub stars](https://img.shields.io/github/stars/antvis/L7?style=social)
+* [Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 44,658 | 🐛 558 | 🌐 JavaScript | 📅 2026-03-16 - The leading open-source JavaScript library for mobile-friendly interactive maps. ![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
+* [Cesium.js](https://github.com/CesiumGS/cesium) ⭐ 14,978 | 🐛 1,587 | 🌐 JavaScript | 📅 2026-03-17 - An open-source JavaScript library for world-class 3D mapping of geospatial data. ![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social)
+* [Deck.GL](https://github.com/visgl/deck.gl) ⭐ 13,954 | 🐛 488 | 🌐 TypeScript | 📅 2026-03-17 - WebGL2 powered geospatial visualization layers. ![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social)
+* [OpenLayers](https://github.com/openlayers/openlayers) ⭐ 12,356 | 🐛 875 | 🌐 JavaScript | 📅 2026-03-16 - A high-performance, feature-packed library for creating interactive maps on the web. ![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social)
+* [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,186 | 🐛 1,438 | 🌐 TypeScript | 📅 2026-03-16 - JavaScript library that uses WebGL to render interactive maps from vector tiles. ![GitHub stars](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social)
+* [maplibre](https://github.com/maplibre/maplibre-gl-js) ⭐ 10,146 | 🐛 417 | 🌐 TypeScript | 📅 2026-03-16 - It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. ![GitHub stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social)
+* [MapTalks.js](https://github.com/maptalks/maptalks.js) ⭐ 4,507 | 🐛 117 | 🌐 HTML | 📅 2026-03-16 - An open-source JavaScript library for integrated 2D/3D maps. ![GitHub stars](https://img.shields.io/github/stars/maptalks/maptalks.js?style=social)
+* [antvis L7](https://github.com/antvis/L7) ⭐ 3,978 | 🐛 265 | 🌐 TypeScript | 📅 2026-03-13 - Large-scale WebGL-powered Geospatial Data Visualization. ![GitHub stars](https://img.shields.io/github/stars/antvis/L7?style=social)
 * [datamaps](https://github.com/markmarkoh/datamaps) ⭐ 3,804 | 🐛 227 | 🌐 JavaScript | 📅 2026-02-10 - Customizable map visualizations in one file. ![GitHub stars](https://img.shields.io/github/stars/markmarkoh/datamaps?style=social)
-* [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) ⭐ 3,291 | 🐛 188 | 🌐 JavaScript | 📅 2024-08-08 - An SVG mapping component library for React, built on top of d3-geo. ![GitHub stars](https://img.shields.io/github/stars/zcreativelabs/react-simple-maps?style=social)
-* [globe.gl](https://github.com/vasturiano/globe.gl) ⭐ 2,860 | 🐛 129 | 🌐 HTML | 📅 2026-03-13 - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering. ![GitHub stars](https://img.shields.io/github/stars/vasturiano/globe.gl?style=social)
+* [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) ⭐ 3,290 | 🐛 189 | 🌐 JavaScript | 📅 2024-08-08 - An SVG mapping component library for React, built on top of d3-geo. ![GitHub stars](https://img.shields.io/github/stars/zcreativelabs/react-simple-maps?style=social)
+* [globe.gl](https://github.com/vasturiano/globe.gl) ⭐ 2,861 | 🐛 129 | 🌐 HTML | 📅 2026-03-13 - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering. ![GitHub stars](https://img.shields.io/github/stars/vasturiano/globe.gl?style=social)
 * [Tangram](https://github.com/tangrams/tangram) ⭐ 2,315 | 🐛 66 | 🌐 JavaScript | 📅 2026-02-08 - WebGL map rendering engine for creative cartography. ![GitHub stars](https://img.shields.io/github/stars/tangrams/tangram?style=social)
-* [TerriaJS](https://github.com/TerriaJS/terriajs) ⭐ 1,317 | 🐛 882 | 🌐 TypeScript | 📅 2026-03-16 - A library for building rich, web-based geospatial data explorers. ![GitHub stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social)
-* [iTowns](https://github.com/iTowns/itowns) ⭐ 1,231 | 🐛 274 | 🌐 JavaScript | 📅 2026-03-13 - A Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data. ![GitHub stars](https://img.shields.io/github/stars/iTowns/itowns?style=social)
+* [TerriaJS](https://github.com/TerriaJS/terriajs) ⭐ 1,317 | 🐛 883 | 🌐 TypeScript | 📅 2026-03-16 - A library for building rich, web-based geospatial data explorers. ![GitHub stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social)
+* [iTowns](https://github.com/iTowns/itowns) ⭐ 1,231 | 🐛 275 | 🌐 JavaScript | 📅 2026-03-13 - A Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data. ![GitHub stars](https://img.shields.io/github/stars/iTowns/itowns?style=social)
 * [d3-geo-projection](https://github.com/d3/d3-geo-projection) ⭐ 1,151 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-12 - Extended geographic projections. ![GitHub stars](https://img.shields.io/github/stars/d3/d3-geo-projection?style=social)
 * [d3-geo](https://github.com/d3/d3-geo) ⭐ 1,090 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 - A library for creating maps based on D3.js. ![GitHub stars](https://img.shields.io/github/stars/d3/d3-geo?style=social)
 * [Map Forecast API](https://github.com/windycom/API) ⭐ 883 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-27 - Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps. ![GitHub stars](https://img.shields.io/github/stars/windycom/API?style=social)
@@ -68,7 +68,7 @@ Libraries for creating web maps:
 * [Bertin.js](https://github.com/neocarto/bertin) ⭐ 316 | 🐛 9 | 🌐 JavaScript | 📅 2023-10-23 - A JavaScript library for visualizing geospatial data and making thematic maps for the web. ![GitHub stars](https://img.shields.io/github/stars/neocarto/bertin?style=social)
 * [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) ⭐ 272 | 🐛 9 | 🌐 JavaScript | 📅 2026-02-27 - Voronoi diagrams and Delaunay triangulation for the sphere. ![GitHub stars](https://img.shields.io/github/stars/Fil/d3-geo-voronoi?style=social)
 * [gridviz](https://github.com/eurostat/gridviz) ⭐ 235 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-03 - A package for visualizing gridded data. ![GitHub stars](https://img.shields.io/github/stars/eurostat/gridviz?style=social)
-* [Eurostat-map](https://github.com/eurostat/eurostat-map.js) ⭐ 90 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-13 - Create and customise web maps showing Eurostat data using D3.js. ![GitHub stars](https://img.shields.io/github/stars/eurostat/eurostat-map.js?style=social)
+* [Eurostat-map](https://github.com/eurostat/eurostat-map.js) ⭐ 90 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-16 - Create and customise web maps showing Eurostat data using D3.js. ![GitHub stars](https://img.shields.io/github/stars/eurostat/eurostat-map.js?style=social)
 * [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Modern JavaScript API and web component library for building interactive 2D and 3D web apps for the browser.
 * [Google Maps](https://developers.google.com/maps/documentation/javascript) - JavaScript API for Google Maps.
 * [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
@@ -77,11 +77,11 @@ Libraries for creating web maps:
 
 Libraries that help you analyse and process geospatial data:
 
-* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,287 | 🐛 292 | 🌐 TypeScript | 📅 2026-03-15 - A JavaScript library for spatial analysis. ![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social)
-* [topoJSON](https://github.com/topojson/topojson) ⭐ 4,869 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20 - Convert GeoJSON to TopoJSON for use in D3 maps. ![GitHub stars](https://img.shields.io/github/stars/topojson/topojson?style=social)
+* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,288 | 🐛 291 | 🌐 TypeScript | 📅 2026-03-16 - A JavaScript library for spatial analysis. ![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social)
+* [topoJSON](https://github.com/topojson/topojson) ⭐ 4,870 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20 - Convert GeoJSON to TopoJSON for use in D3 maps. ![GitHub stars](https://img.shields.io/github/stars/topojson/topojson?style=social)
 * [geolib](https://github.com/manuelbieh/geolib) ⭐ 4,271 | 🐛 72 | 🌐 JavaScript | 📅 2024-04-27 - Library to provide basic geospatial operations. ![GitHub stars](https://img.shields.io/github/stars/manuelbieh/geolib?style=social)
 * [rbush](https://github.com/mourner/rbush) ⭐ 2,720 | 🐛 14 | 🌐 JavaScript | 📅 2026-02-28 - A high-performance JavaScript library for 2D spatial indexing. ![GitHub stars](https://img.shields.io/github/stars/mourner/rbush?style=social)
-* [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) ⭐ 2,472 | 🐛 2 | 📅 2026-02-01 - Catalogue of GeoJSON tools. ![GitHub stars](https://img.shields.io/github/stars/tmcw/awesome-geojson?style=social)
+* [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) ⭐ 2,473 | 🐛 2 | 📅 2026-02-01 - Catalogue of GeoJSON tools. ![GitHub stars](https://img.shields.io/github/stars/tmcw/awesome-geojson?style=social)
 * [Proj4js](https://github.com/proj4js/proj4js) ⭐ 2,209 | 🐛 110 | 🌐 JavaScript | 📅 2026-03-12 - Transform coordinates from one coordinate system to another. ![GitHub stars](https://img.shields.io/github/stars/proj4js/proj4js?style=social)
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,022 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-26 - A highly efficient JavaScript library for slicing GeoJSON data. ![GitHub stars](https://img.shields.io/github/stars/mapbox/geojson-vt?style=social)
 * [flatbush](https://github.com/mourner/flatbush) ⭐ 1,561 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-13 - A really fast static spatial index for 2D points and rectangles in JavaScript. ![GitHub stars](https://img.shields.io/github/stars/mourner/flatbush?style=social)
@@ -90,7 +90,7 @@ Libraries that help you analyse and process geospatial data:
 * [Geometric.js](https://github.com/HarryStevens/geometric) ⭐ 1,022 | 🐛 13 | 🌐 JavaScript | 📅 2026-02-28 - A JavaScript library for doing geometry. ![GitHub stars](https://img.shields.io/github/stars/HarryStevens/geometric?style=social)
 * [geobuf](https://github.com/mapbox/geobuf) ⭐ 1,021 | 🐛 36 | 🌐 JavaScript | 📅 2022-01-17 - A compact binary encoding for geographic data. ![GitHub stars](https://img.shields.io/github/stars/mapbox/geobuf?style=social)
 * [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) ⭐ 1,009 | 🐛 79 | 🌐 JavaScript | 📅 2026-03-11 - Parse TIFF files for visualization or analysis. ![GitHub stars](https://img.shields.io/github/stars/geotiffjs/geotiff.js?style=social)
-* [FlatGeoBuf](https://github.com/flatgeobuf/flatgeobuf) ⭐ 784 | 🐛 36 | 🌐 Rust | 📅 2026-03-11 - A performant binary encoding for geographic data based on flatbuffers. ![GitHub stars](https://img.shields.io/github/stars/flatgeobuf/flatgeobuf?style=social)
+* [FlatGeoBuf](https://github.com/flatgeobuf/flatgeobuf) ⭐ 785 | 🐛 36 | 🌐 Rust | 📅 2026-03-11 - A performant binary encoding for geographic data based on flatbuffers. ![GitHub stars](https://img.shields.io/github/stars/flatgeobuf/flatgeobuf?style=social)
 * [koop](https://github.com/koopjs/koop) ⭐ 705 | 🐛 59 | 🌐 JavaScript | 📅 2025-03-31 - A JavaScript toolkit for connecting incompatible spatial APIs. ![GitHub stars](https://img.shields.io/github/stars/koopjs/koop?style=social)
 * [flatten-js](https://github.com/alexbol99/flatten-js) ⭐ 644 | 🐛 13 | 🌐 JavaScript | 📅 2026-01-21 - For manipulating geometrical shapes, finding intersections, checking inclusion, calculating distance, transformations, and more. ![GitHub stars](https://img.shields.io/github/stars/alexbol99/flatten-js?style=social)
 * [Wicket](https://github.com/arthur-e/Wicket) ⭐ 592 | 🐛 34 | 🌐 JavaScript | 📅 2021-09-13 - A modest library for moving between Well-Known Text (WKT) and various framework geometries. ![GitHub stars](https://img.shields.io/github/stars/arthur-e/Wicket?style=social)
@@ -110,8 +110,8 @@ Libraries that help you analyse and process geospatial data:
 
 Tools for visualizing point clouds with web browsers:
 
-* [Potree](https://github.com/potree/potree) ⭐ 5,357 | 🐛 811 | 🌐 JavaScript | 📅 2026-01-08 - WebGL point cloud viewer for large datasets.
-* [Plasio](https://github.com/verma/plasio) ⭐ 538 | 🐛 36 | 🌐 JavaScript | 📅 2020-03-26 - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
+* [Potree](https://github.com/potree/potree) ⭐ 5,364 | 🐛 811 | 🌐 JavaScript | 📅 2026-01-08 - WebGL point cloud viewer for large datasets.
+* [Plasio](https://github.com/verma/plasio) ⭐ 539 | 🐛 36 | 🌐 JavaScript | 📅 2020-03-26 - Drag-n-drop In-browser LAS/LAZ point cloud viewer.
 * [Potree & Cesium.js](https://potree.org/potree/examples/cesium_retz.html) - Rezt, Austria LIDAR viewer.
 * [Three.js](https://threejs.org/examples/#webgl_loader_pcd) - Point cloud data loader.
 
@@ -119,7 +119,7 @@ Tools for visualizing point clouds with web browsers:
 
 Resources for frontend earth observation and remote sensing:
 
-* [EOSDIS Worldview](https://github.com/nasa-gibs/worldview) ⭐ 906 | 🐛 15 | 🌐 JavaScript | 📅 2026-03-13 - Interactive interface for browsing global, full-resolution satellite imagery.
+* [EOSDIS Worldview](https://github.com/nasa-gibs/worldview) ⭐ 906 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-16 - Interactive interface for browsing global, full-resolution satellite imagery.
 * [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) ⭐ 696 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-20 - A repository of custom scripts to be used with Sentinel Hub.
 * [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js/) ⭐ 56 | 🐛 25 | 🌐 TypeScript | 📅 2026-02-06 - Download and process satellite imagery using Sentinel Hub services.
 * [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorial_api_01) - Geospatial processing service.
@@ -198,8 +198,8 @@ Restful APIs for consuming geospatial data on the fly:
 
 Compilations and repositories of open geospatial datasets:
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 73,424 | 🐛 139 | 📅 2026-03-10 - An awesome repository full of open datasets from an abundance of different categories.
-* [Public APIs](https://github.com/public-apis-dev/public-apis) ⭐ 8,418 | 🐛 51 | 🌐 JavaScript | 📅 2026-03-09 - A collective list of free APIs for use in software and web development.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 73,440 | 🐛 138 | 📅 2026-03-16 - An awesome repository full of open datasets from an abundance of different categories.
+* [Public APIs](https://github.com/public-apis-dev/public-apis) ⭐ 8,431 | 🐛 56 | 🌐 JavaScript | 📅 2026-03-16 - A collective list of free APIs for use in software and web development.
 * [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 * [WRI](https://datasets.wri.org/) - World Resources Institute.
 * [David Rumsey map collection](https://www.davidrumsey.com/) - Historical map archives.
@@ -259,13 +259,13 @@ A compilation of interesting web maps:
 
 Plug-and-play geospatial web apps:
 
-* [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) ⭐ 5,529 | 🐛 21 | 🌐 JavaScript | 📅 2026-03-12 - Free web application for creating and editing fantasy maps.
-* [mapus](https://github.com/alyssaxuu/mapus) ⭐ 3,515 | 🐛 9 | 🌐 JavaScript | 📅 2022-07-02 - Tool for collaboratively exploring and annotating maps.
-* [Maputnik](https://github.com/maputnik/editor) ⭐ 2,507 | 🐛 93 | 🌐 TypeScript | 📅 2026-03-13 - Free and open visual editor for Mapbox GL styles.
-* [uMap](https://github.com/umap-project/umap) ⭐ 1,503 | 🐛 341 | 🌐 JavaScript | 📅 2026-03-13 - Create maps with OpenStreetMap layers and embed them in your site.
+* [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) ⭐ 5,532 | 🐛 21 | 🌐 JavaScript | 📅 2026-03-12 - Free web application for creating and editing fantasy maps.
+* [mapus](https://github.com/alyssaxuu/mapus) ⭐ 3,516 | 🐛 9 | 🌐 JavaScript | 📅 2022-07-02 - Tool for collaboratively exploring and annotating maps.
+* [Maputnik](https://github.com/maputnik/editor) ⭐ 2,507 | 🐛 93 | 🌐 TypeScript | 📅 2026-03-16 - Free and open visual editor for Mapbox GL styles.
+* [uMap](https://github.com/umap-project/umap) ⭐ 1,503 | 🐛 344 | 🌐 JavaScript | 📅 2026-03-16 - Create maps with OpenStreetMap layers and embed them in your site.
 * [Datawrapper](https://github.com/datawrapper/datawrapper) ⭐ 1,433 | 🐛 75 | 🌐 TypeScript | 📅 2025-03-30 - Create charts, maps, and tables.
 * [Peak Map](https://github.com/anvaka/peak-map) ⭐ 634 | 🐛 13 | 🌐 JavaScript | 📅 2025-12-27 - Visualizes elevation of any area on the map with filled area charts.
-* [Plasio](https://github.com/verma/plasio) ⭐ 538 | 🐛 36 | 🌐 JavaScript | 📅 2020-03-26 - Drag-n-drop in-browser LAS/LAZ point cloud viewer.
+* [Plasio](https://github.com/verma/plasio) ⭐ 539 | 🐛 36 | 🌐 JavaScript | 📅 2020-03-26 - Drag-n-drop in-browser LAS/LAZ point cloud viewer.
 * [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
 * [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
 * [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
@@ -320,9 +320,9 @@ Videos of web mapping presentations and tutorials:
 
 Contributions of any kind are welcome, just follow the [guidelines](origin/CONTRIBUTING.md) by either:
 
-* Filling a [suggestion issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) ⭐ 662 | 🐛 4 | 📅 2025-12-07 (easier).
-* Opening a [pull request](https://github.com/joewdavies/awesome-frontend-gis/compare) ⭐ 662 | 🐛 4 | 📅 2025-12-07.
+* Filling a [suggestion issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) ⭐ 663 | 🐛 4 | 📅 2025-12-07 (easier).
+* Opening a [pull request](https://github.com/joewdavies/awesome-frontend-gis/compare) ⭐ 663 | 🐛 4 | 📅 2025-12-07.
 
 ***
 
-If you have any questions about this list, please don't hesitate to contact me [@joewdavies](https://twitter.com/joewdavies) on X (formerly Twitter) or [open a GitHub issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new) ⭐ 662 | 🐛 4 | 📅 2025-12-07.
+If you have any questions about this list, please don't hesitate to contact me [@joewdavies](https://twitter.com/joewdavies) on X (formerly Twitter) or [open a GitHub issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new) ⭐ 663 | 🐛 4 | 📅 2025-12-07.
