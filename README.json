@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T14:56:33Z",
+            "last_commit": "2026-05-21T06:46:34Z",
             "owner": "antvis",
             "repo": "L7",
             "stars": 4004
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-20T14:29:13Z",
+            "last_commit": "2026-05-21T19:47:13Z",
             "owner": "CesiumGS",
             "repo": "cesium",
-            "stars": 15288
+            "stars": 15293
           }
         },
         {
@@ -124,10 +124,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T20:45:55Z",
+            "last_commit": "2026-05-22T05:32:09Z",
             "owner": "visgl",
             "repo": "deck.gl",
-            "stars": 14189
+            "stars": 14192
           }
         },
         {
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-20T09:40:49Z",
+            "last_commit": "2026-05-21T14:58:00Z",
             "owner": "eurostat",
             "repo": "eurostat-map",
             "stars": 96
@@ -153,7 +153,7 @@
             "last_commit": "2026-05-16T22:42:50Z",
             "owner": "vasturiano",
             "repo": "globe.gl",
-            "stars": 3014
+            "stars": 3016
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-05-20T14:24:36Z",
             "owner": "iTowns",
             "repo": "itowns",
-            "stars": 1244
+            "stars": 1245
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-05-18T22:32:29Z",
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 45046
+            "stars": 45061
           }
         },
         {
@@ -225,10 +225,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T08:34:29Z",
+            "last_commit": "2026-05-21T14:58:50Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
-            "stars": 12279
+            "stars": 12281
           }
         },
         {
@@ -238,10 +238,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T13:15:26Z",
+            "last_commit": "2026-05-21T20:39:52Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 10657
+            "stars": 10665
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-05-11T22:16:30Z",
             "owner": "TerriaJS",
             "repo": "terriajs",
-            "stars": 1325
+            "stars": 1326
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2026-04-14T17:25:31Z",
             "owner": "springmeyer",
             "repo": "arc.js",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -481,7 +481,7 @@
             "last_commit": "2026-04-03T01:52:18Z",
             "owner": "manuelbieh",
             "repo": "geolib",
-            "stars": 4275
+            "stars": 4274
           }
         },
         {
@@ -556,7 +556,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-02T06:59:55Z",
+            "last_commit": "2026-05-21T19:23:40Z",
             "owner": "HarryStevens",
             "repo": "geometric",
             "stars": 1018
@@ -660,7 +660,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T17:32:18Z",
+            "last_commit": "2026-05-21T22:27:05Z",
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10359
@@ -721,7 +721,7 @@
             "last_commit": "2026-01-08T10:01:16Z",
             "owner": "potree",
             "repo": "potree",
-            "stars": 5472
+            "stars": 5476
           }
         },
         {
@@ -747,7 +747,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-20T23:16:35Z",
+            "last_commit": "2026-05-22T04:10:08Z",
             "owner": "nasa-gibs",
             "repo": "worldview",
             "stars": 1010
@@ -1076,7 +1076,7 @@
             "last_commit": "2026-05-20T23:24:58Z",
             "owner": "openskynetwork",
             "repo": "opensky-api",
-            "stars": 444
+            "stars": 443
           }
         },
         {
@@ -1131,7 +1131,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-21T04:36:14Z",
+            "last_commit": "2026-05-22T04:39:35Z",
             "owner": "artakulov",
             "repo": "us-water-quality-data",
             "stars": 1
@@ -1163,7 +1163,7 @@
             "last_commit": "2026-05-19T15:40:08Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 75572
+            "stars": 75582
           }
         },
         {
@@ -1178,10 +1178,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-18T18:04:10Z",
+            "last_commit": "2026-05-21T15:18:03Z",
             "owner": "marcelscruz",
             "repo": "public-apis",
-            "stars": 8997
+            "stars": 8999
           }
         },
         {
@@ -1230,10 +1230,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-20T21:42:19Z",
+            "last_commit": "2026-05-22T01:26:55Z",
             "owner": "Azgaar",
             "repo": "Fantasy-Map-Generator",
-            "stars": 5666
+            "stars": 5669
           }
         },
         {
@@ -1273,7 +1273,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T00:04:13Z",
+            "last_commit": "2026-05-21T15:07:35Z",
             "owner": "maplibre",
             "repo": "maputnik",
             "stars": 2541
@@ -1366,7 +1366,7 @@
             "last_commit": "2026-05-16T10:18:45Z",
             "owner": "Juliusolsson05",
             "repo": "pharos-ai",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -1379,7 +1379,7 @@
             "last_commit": "2026-05-20T11:57:54Z",
             "owner": "GeiserX",
             "repo": "Pumperly",
-            "stars": 21
+            "stars": 22
           }
         }
       ],
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-21T05:59:02.768Z",
+    "last_updated": "2026-05-22T05:54:55.900Z",
     "original_repository": "joewdavies/awesome-frontend-gis",
     "source_repository": "v1nvn/enhansome-frontend-gis",
     "source_repository_description": null,
